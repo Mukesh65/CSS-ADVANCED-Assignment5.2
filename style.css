@@ -1,0 +1,11 @@
+header {
+  color: white;
+  background-color: green;
+  padding-left: 20px;
+}
+/*-- for media Query --*/
+@media (max-width: 450px) {
+  header{
+    background-color: blue;
+  }
+}
